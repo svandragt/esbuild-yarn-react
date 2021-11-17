@@ -1,4 +1,5 @@
 # A (esbuild / yarn / React) app test
+I'm sure there's plenty wrong with it ;)
 
 ```
 # Toolchain setup (skip if you already have it)
